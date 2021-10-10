@@ -1,0 +1,28 @@
+.heading1{
+    background-color: blue;
+}
+
+.heading3{
+    background-color: coral;
+}
+
+#heading4{
+    background-color: crimson !important;
+}
+
+
+#heading5{
+    background-color: yellow;
+}
+
+#my_heading{
+    background-color: cyan;
+}
+
+.para{
+    color:black;
+    font-size: 70px;
+    text-transform: uppercase;
+    text-align: left;
+
+}

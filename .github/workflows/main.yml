@@ -36,4 +36,4 @@ jobs:
       - name: Installing Surge
         run: sudo npm install --global surge
       - name: deploying using surge
-        run : surge ./ https://deskskill.surge.sh/ --token ${{ secrets.DWS}} 
+        run : surge ./ https://deskskill.surge.sh/ --token ${{secrets.DWS}} 
